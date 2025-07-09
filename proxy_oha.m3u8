@@ -10,6 +10,12 @@
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/210669162/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT TENNIS |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT TENNIS |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/2100771782/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT UNO |H" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT UNO |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
@@ -21,12 +27,6 @@ http://217.154.5.184:80/?url=https://oha.to/play/3192996672/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/924661659/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT TENNIS |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT TENNIS |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/2100771782/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT ARENA |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT ARENA |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -52,11 +52,11 @@ http://217.154.5.184:80/?url=https://oha.to/play/2775802255/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1665920101/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1 |H" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORTS F1 |H
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT MOTO GP |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT MOTO GP |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/2289038972/index.m3u8
+http://217.154.5.184:80/?url=https://oha.to/play/3036316886/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 24 [LIVE DURING EVENTS ONLY] |H" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT 24 [LIVE DURING EVENTS ONLY] |H
 #EXTVLCOPT:http-user-agent=OHA
@@ -70,29 +70,11 @@ http://217.154.5.184:80/?url=https://oha.to/play/3445562519/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/449990998/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT F1 |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT F1 |E
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1 |H" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORTS F1 |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/4246774056/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT MOTO GP |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT MOTO GP |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/3036316886/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT FOOTBALL |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/3093535330/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT ARENA |H" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT ARENA |H
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/2555960713/index.m3u8
+http://217.154.5.184:80/?url=https://oha.to/play/2289038972/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT NBA |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT NBA |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -106,6 +88,12 @@ http://217.154.5.184:80/?url=https://oha.to/play/2711959620/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2090703806/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT FOOTBALL |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/3093535330/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT GOLF |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
@@ -118,17 +106,29 @@ http://217.154.5.184:80/?url=https://oha.to/play/729945219/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1989309231/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT NBA |H" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT NBA |H
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/326825326/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT SERIE A |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT SERIE A |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2077387085/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT ARENA |H" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT ARENA |H
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/2555960713/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT F1 |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT F1 |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/4246774056/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT NBA |H" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT NBA |H
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/326825326/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT MAX |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SKY SPORT MAX |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -150,23 +150,17 @@ http://217.154.5.184:80/?url=https://oha.to/play/3897711086/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1144128726/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA DRAMA |E" group-title="Film & Serie TV" http-user-agent="OHA" http-referrer="https://oha.to",SKY CINEMA DRAMA |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/1235530177/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA UNO |H" group-title="Film & Serie TV" http-user-agent="OHA" http-referrer="https://oha.to",SKY CINEMA UNO |H
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/1759625738/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA COLLECTION |H" group-title="Film & Serie TV" http-user-agent="OHA" http-referrer="https://oha.to",SKY CINEMA COLLECTION |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/3525837057/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA DRAMA |E" group-title="Film & Serie TV" http-user-agent="OHA" http-referrer="https://oha.to",SKY CINEMA DRAMA |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/1235530177/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA ACTION |E" group-title="Film & Serie TV" http-user-agent="OHA" http-referrer="https://oha.to",SKY CINEMA ACTION |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -179,6 +173,12 @@ http://217.154.5.184:80/?url=https://oha.to/play/3812796171/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/3131104474/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA UNO |H" group-title="Film & Serie TV" http-user-agent="OHA" http-referrer="https://oha.to",SKY CINEMA UNO |H
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/1759625738/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA FAMILY |E" group-title="Film & Serie TV" http-user-agent="OHA" http-referrer="https://oha.to",SKY CINEMA FAMILY |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -197,6 +197,18 @@ http://217.154.5.184:80/?url=https://oha.to/play/2890008905/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1820997555/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SERIE |E" group-title="Film & Serie TV" http-user-agent="OHA" http-referrer="https://oha.to",SKY SERIE |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/836680112/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA ACTION (BACKUP) |H" group-title="Film & Serie TV" http-user-agent="OHA" http-referrer="https://oha.to",SKY CINEMA ACTION (BACKUP) |H
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA FAMILY |H" group-title="Film & Serie TV" http-user-agent="OHA" http-referrer="https://oha.to",SKY CINEMA FAMILY |H
 #EXTVLCOPT:http-user-agent=OHA
@@ -233,18 +245,6 @@ http://217.154.5.184:80/?url=https://oha.to/play/2330574729/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1699876530/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SERIE |E" group-title="Film & Serie TV" http-user-agent="OHA" http-referrer="https://oha.to",SKY SERIE |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/836680112/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA ACTION (BACKUP) |H" group-title="Film & Serie TV" http-user-agent="OHA" http-referrer="https://oha.to",SKY CINEMA ACTION (BACKUP) |H
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA DUE |E" group-title="Film & Serie TV" http-user-agent="OHA" http-referrer="https://oha.to",SKY CINEMA DUE |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -292,17 +292,11 @@ http://217.154.5.184:80/?url=https://oha.to/play/318057128/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/558282118/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 1 |E
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 2 |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/1944682394/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 8 |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/2130255339/index.m3u8
+http://217.154.5.184:80/?url=https://oha.to/play/877200714/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY UNO |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY UNO |H
 #EXTVLCOPT:http-user-agent=OHA
@@ -334,6 +328,12 @@ http://217.154.5.184:80/?url=https://oha.to/play/2268489342/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/3137990890/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 8 |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/2130255339/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 6 |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
@@ -345,12 +345,6 @@ http://217.154.5.184:80/?url=https://oha.to/play/3939513684/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2255083866/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 2 |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/877200714/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY ATLANTIC |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY ATLANTIC |H
 #EXTVLCOPT:http-user-agent=OHA
@@ -364,29 +358,35 @@ http://217.154.5.184:80/?url=https://oha.to/play/1482866609/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2130523218/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 6 |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/3251217290/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY ARTE |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY ARTE |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1806815496/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 17 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 17 |E
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 7 |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/1284441949/index.m3u8
+http://217.154.5.184:80/?url=https://oha.to/play/4238969402/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 1 |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/1944682394/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 16 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 16 |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1911500525/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 6 |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/3251217290/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 1 |H
 #EXTVLCOPT:http-user-agent=OHA
@@ -442,17 +442,17 @@ http://217.154.5.184:80/?url=https://oha.to/play/2909818756/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/4272937805/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 7 |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/4238969402/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 3 |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/573618724/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 17 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 17 |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/1284441949/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SKY PRIMAFILA 3 |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -566,6 +566,12 @@ http://217.154.5.184:80/?url=https://oha.to/play/869117599/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1225653759/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="RAI 2 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RAI 2 |H
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/246253359/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="RAI 4 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RAI 4 |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
@@ -578,12 +584,6 @@ http://217.154.5.184:80/?url=https://oha.to/play/2179822223/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1324733956/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RAI 2 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RAI 2 |H
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/246253359/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="MEDIASET 20 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",MEDIASET 20 |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
@@ -595,12 +595,6 @@ http://217.154.5.184:80/?url=https://oha.to/play/3134481201/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1230338185/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4K |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RAI 4K |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/2049087681/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RAI 2 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RAI 2 |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -644,11 +638,11 @@ http://217.154.5.184:80/?url=https://oha.to/play/374675593/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2828455552/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RAI 4 |E
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA 2 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",MEDIASET ITALIA 2 |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/4241820180/index.m3u8
+http://217.154.5.184:80/?url=https://oha.to/play/3538009430/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RAI YOYO |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RAI YOYO |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -656,23 +650,29 @@ http://217.154.5.184:80/?url=https://oha.to/play/4241820180/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1785501924/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RAI 5 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RAI 5 |H
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/3163380543/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RAI ITALIA |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/294457245/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4K |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RAI 4K |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/2049087681/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MEDIASET IRIS |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",MEDIASET IRIS |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/23919988/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RAI 4 |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/4241820180/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOCUS |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",FOCUS |H
 #EXTVLCOPT:http-user-agent=OHA
@@ -691,12 +691,6 @@ http://217.154.5.184:80/?url=https://oha.to/play/78838793/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/57338653/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA 2 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",MEDIASET ITALIA 2 |H
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/3538009430/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FOCUS |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",DISCOVERY FOCUS |H
 #EXTVLCOPT:http-user-agent=OHA
@@ -727,6 +721,12 @@ http://217.154.5.184:80/?url=https://oha.to/play/3249873828/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1989562337/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RAI 5 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RAI 5 |H
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/3163380543/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RAI SCUOLA |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -800,29 +800,11 @@ http://217.154.5.184:80/?url=https://oha.to/play/3022771961/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/3481346857/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",EUROSPORT 2 |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/2283887097/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 |H" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",EUROSPORT 1 |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/3448075317/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",DAZN 2 |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/363506221/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",ZONA DAZN |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/2911178456/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 |H" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",EUROSPORT 2 |H
 #EXTVLCOPT:http-user-agent=OHA
@@ -830,11 +812,35 @@ http://217.154.5.184:80/?url=https://oha.to/play/2911178456/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2317684453/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",EUROSPORT 2 |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/2283887097/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",DAZN 2 |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/363506221/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="DAZN |H" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",DAZN |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2745635299/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",DAZN 1 |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/1376440573/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",ZONA DAZN |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/2911178456/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] |H" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] |H
 #EXTVLCOPT:http-user-agent=OHA
@@ -842,11 +848,17 @@ http://217.154.5.184:80/?url=https://oha.to/play/2745635299/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/830949486/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",DAZN 1 |E
+#EXTINF:-1 tvg-id="" tvg-name="RTV SPORT |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",RTV SPORT |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/1376440573/index.m3u8
+http://217.154.5.184:80/?url=https://oha.to/play/134178901/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ACI SPORT TV |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",ACI SPORT TV |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/1351631603/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA |H" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",SPORT ITALIA |H
 #EXTVLCOPT:http-user-agent=OHA
@@ -872,23 +884,11 @@ http://217.154.5.184:80/?url=https://oha.to/play/3165086929/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2198410339/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RTV SPORT |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",RTV SPORT |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/134178901/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TRSPORT |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",TRSPORT |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/361314062/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ACI SPORT TV |E" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",ACI SPORT TV |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/1351631603/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RTV SAN MARINO SPORT |H" group-title="Sport" http-user-agent="OHA" http-referrer="https://oha.to",RTV SAN MARINO SPORT |H
 #EXTVLCOPT:http-user-agent=OHA
@@ -924,12 +924,6 @@ http://217.154.5.184:80/?url=https://oha.to/play/1109372778/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2418148449/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EURONEWS |E" group-title="News" http-user-agent="OHA" http-referrer="https://oha.to",EURONEWS |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/490955579/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 |H" group-title="News" http-user-agent="OHA" http-referrer="https://oha.to",TG NORBA 24 |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
@@ -947,6 +941,12 @@ http://217.154.5.184:80/?url=https://oha.to/play/1785098768/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/3379729817/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS |E" group-title="News" http-user-agent="OHA" http-referrer="https://oha.to",EURONEWS |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/490955579/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV7 NEWS |E" group-title="News" http-user-agent="OHA" http-referrer="https://oha.to",TV7 NEWS |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -974,11 +974,11 @@ http://217.154.5.184:80/?url=https://oha.to/play/1534161807/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/663536394/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RSI LA 2 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RSI LA 2 |H
+#EXTINF:-1 tvg-id="" tvg-name="27 TWENTY SEVEN |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",27 TWENTY SEVEN |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/3475299702/index.m3u8
+http://217.154.5.184:80/?url=https://oha.to/play/608774683/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SUPER TENNIS |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SUPER TENNIS |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -986,29 +986,23 @@ http://217.154.5.184:80/?url=https://oha.to/play/3475299702/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/3213195143/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",TENNIS CHANNEL |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/2716316208/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="RETE 4 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RETE 4 |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2235732004/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LA 5 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",LA 5 |H
+#EXTINF:-1 tvg-id="" tvg-name="DMAX |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",DMAX |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/1425667375/index.m3u8
+http://217.154.5.184:80/?url=https://oha.to/play/3803638765/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",ITALIA 3 |E
+#EXTINF:-1 tvg-id="" tvg-name="RSI LA 2 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RSI LA 2 |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/1565298794/index.m3u8
+http://217.154.5.184:80/?url=https://oha.to/play/3475299702/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CRIME + INV |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",CRIME + INV |H
 #EXTVLCOPT:http-user-agent=OHA
@@ -1016,11 +1010,11 @@ http://217.154.5.184:80/?url=https://oha.to/play/1565298794/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1968339149/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="27 TWENTY SEVEN |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",27 TWENTY SEVEN |H
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",TENNIS CHANNEL |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/608774683/index.m3u8
+http://217.154.5.184:80/?url=https://oha.to/play/2716316208/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SUPER TENNIS |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SUPER TENNIS |H
 #EXTVLCOPT:http-user-agent=OHA
@@ -1033,6 +1027,12 @@ http://217.154.5.184:80/?url=https://oha.to/play/3009377513/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2290395046/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LA 5 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",LA 5 |H
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/1425667375/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MILAN TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",MILAN TV |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -1058,11 +1058,11 @@ http://217.154.5.184:80/?url=https://oha.to/play/3590183307/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1729811452/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DMAX |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",DMAX |H
+#EXTINF:-1 tvg-id="" tvg-name="REAL TIME |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",REAL TIME |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/3803638765/index.m3u8
+http://217.154.5.184:80/?url=https://oha.to/play/2251241999/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TOP CRIME |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",TOP CRIME |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -1076,11 +1076,23 @@ http://217.154.5.184:80/?url=https://oha.to/play/269503091/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/963607327/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",ITALIA 3 |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/1565298794/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="K2 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",K2 |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2255724318/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LA 7 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",LA 7 |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/2143522071/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 2 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",ITALIA 2 |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -1106,11 +1118,17 @@ http://217.154.5.184:80/?url=https://oha.to/play/3124512993/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2719953688/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RSI LA 1 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RSI LA 1 |E
+#EXTINF:-1 tvg-id="" tvg-name="MOTORTREND |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",MOTORTREND |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/2455610203/index.m3u8
+http://217.154.5.184:80/?url=https://oha.to/play/3758728323/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TOP CRIME |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",TOP CRIME |H
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/3420407456/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LA 7 |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",LA 7 |H
 #EXTVLCOPT:http-user-agent=OHA
@@ -1118,41 +1136,23 @@ http://217.154.5.184:80/?url=https://oha.to/play/2455610203/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/775530063/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UNINETTUNO UNIVERSITY TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",UNINETTUNO UNIVERSITY TV |E
+#EXTINF:-1 tvg-id="" tvg-name="SUPER TV ARISTANIS |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SUPER TV ARISTANIS |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/376550441/index.m3u8
+http://217.154.5.184:80/?url=https://oha.to/play/11653719/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LOVE FM TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",LOVE FM TV |E
+#EXTINF:-1 tvg-id="" tvg-name="TELEA TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",TELEA TV |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/3344963942/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="LAZIO TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",LAZIO TV |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/2774026655/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ONDA TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",ONDA TV |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/203130779/index.m3u8
+http://217.154.5.184:80/?url=https://oha.to/play/3332092310/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CIELO |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",CIELO |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/3743894403/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="REAL TIME |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",REAL TIME |H
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/2251241999/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE 34 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",CINE 34 |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -1178,23 +1178,11 @@ http://217.154.5.184:80/?url=https://oha.to/play/11090349/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/3008151733/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LA 7 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",LA 7 |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/2143522071/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="DEEJAY TV |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",DEEJAY TV |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/3802167244/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MOTORTREND |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",MOTORTREND |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/3758728323/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LA 5 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",LA 5 |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -1244,17 +1232,17 @@ http://217.154.5.184:80/?url=https://oha.to/play/4060499455/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2373936189/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TOP CRIME |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",TOP CRIME |H
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/3420407456/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="M2O |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",M2O |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/215827632/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RSI LA 1 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RSI LA 1 |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/2455610203/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ANTENNA 2 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",ANTENNA 2 |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -1327,6 +1315,12 @@ http://217.154.5.184:80/?url=https://oha.to/play/1600139819/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/996680722/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LOVE FM TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",LOVE FM TV |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/3344963942/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PADRE PIO TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",PADRE PIO TV |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -1513,6 +1507,12 @@ http://217.154.5.184:80/?url=https://oha.to/play/161144675/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2381583828/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UNINETTUNO UNIVERSITY TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",UNINETTUNO UNIVERSITY TV |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/376550441/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC 101 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RMC 101 |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -1808,6 +1808,12 @@ http://217.154.5.184:80/?url=https://oha.to/play/3497884599/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2835333400/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ONDA TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",ONDA TV |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/203130779/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="VIDEOTOLENTINO |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",VIDEOTOLENTINO |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
@@ -1856,6 +1862,12 @@ http://217.154.5.184:80/?url=https://oha.to/play/1521821490/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2098624390/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ORLER TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",ORLER TV |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/3471319012/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TELEMISTRETTA |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",TELEMISTRETTA |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
@@ -1867,12 +1879,6 @@ http://217.154.5.184:80/?url=https://oha.to/play/1438440507/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/3525104604/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ORLER TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",ORLER TV |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/3471319012/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIMA TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",PRIMA TV |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -1982,6 +1988,12 @@ http://217.154.5.184:80/?url=https://oha.to/play/1371658771/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2488017405/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="LAZIO TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",LAZIO TV |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/2774026655/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TV 2000 |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",TV 2000 |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
@@ -2024,11 +2036,11 @@ http://217.154.5.184:80/?url=https://oha.to/play/1488746638/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2392139008/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SUPER TV ARISTANIS |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",SUPER TV ARISTANIS |E
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",STAR LIFE |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/11653719/index.m3u8
+http://217.154.5.184:80/?url=https://oha.to/play/3946128844/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELE MIA |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",TELE MIA |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -2041,12 +2053,6 @@ http://217.154.5.184:80/?url=https://oha.to/play/1563649601/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2116902817/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",STAR LIFE |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/3946128844/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELE CHIARA |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",TELE CHIARA |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -2114,6 +2120,12 @@ http://217.154.5.184:80/?url=https://oha.to/play/2814318198/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1597386407/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ONDA TV |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",ONDA TV |H
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/1641481816/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="RDS SOCIAL |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RDS SOCIAL |H
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
@@ -2132,6 +2144,12 @@ http://217.154.5.184:80/?url=https://oha.to/play/2797857045/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2230919796/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ONDA NOVARA TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",ONDA NOVARA TV |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/3134124967/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="RDS SOCIAL TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",RDS SOCIAL TV |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
@@ -2143,12 +2161,6 @@ http://217.154.5.184:80/?url=https://oha.to/play/3656080408/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1085172353/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TELEA TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",TELEA TV |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/3332092310/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELEBOARIO |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",TELEBOARIO |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -2167,12 +2179,6 @@ http://217.154.5.184:80/?url=https://oha.to/play/91764224/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/129446377/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ONDA NOVARA TV |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",ONDA NOVARA TV |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/3134124967/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELE ABRUZZO |E" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",TELE ABRUZZO |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -2209,12 +2215,6 @@ http://217.154.5.184:80/?url=https://oha.to/play/1425327889/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/4017608910/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ONDA TV |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",ONDA TV |H
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/1641481816/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELE VENEZIA |H" group-title="Intrattenimento" http-user-agent="OHA" http-referrer="https://oha.to",TELE VENEZIA |H
 #EXTVLCOPT:http-user-agent=OHA
@@ -2326,17 +2326,17 @@ http://217.154.5.184:80/?url=https://oha.to/play/2202937518/index.m3u8
 
 #EXTINF:-1, --- Bambini ---
 
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (BACKUP) |H" group-title="Bambini" http-user-agent="OHA" http-referrer="https://oha.to",CARTOONITO (BACKUP) |H
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/2178717282/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON |E" group-title="Bambini" http-user-agent="OHA" http-referrer="https://oha.to",NICKELODEON |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/3039389215/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (BACKUP) |H" group-title="Bambini" http-user-agent="OHA" http-referrer="https://oha.to",CARTOONITO (BACKUP) |H
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/2178717282/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARTOONITO |E" group-title="Bambini" http-user-agent="OHA" http-referrer="https://oha.to",CARTOONITO |E
 #EXTVLCOPT:http-user-agent=OHA
@@ -2486,6 +2486,12 @@ http://217.154.5.184:80/?url=https://oha.to/play/3446813098/index.m3u8
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/1585005860/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="OL3 RADIO |E" group-title="Musica" http-user-agent="OHA" http-referrer="https://oha.to",OL3 RADIO |E
+#EXTVLCOPT:http-user-agent=OHA
+#EXTVLCOPT:http-referrer=https://oha.to
+#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
+http://217.154.5.184:80/?url=https://oha.to/play/68102734/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="EURO INDIE MUSIC CHART TV |E" group-title="Musica" http-user-agent="OHA" http-referrer="https://oha.to",EURO INDIE MUSIC CHART TV |E
 #EXTVLCOPT:http-user-agent=OHA
 #EXTVLCOPT:http-referrer=https://oha.to
@@ -2509,10 +2515,4 @@ http://217.154.5.184:80/?url=https://oha.to/play/1711134994/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
 http://217.154.5.184:80/?url=https://oha.to/play/2339747193/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="OL3 RADIO |E" group-title="Musica" http-user-agent="OHA" http-referrer="https://oha.to",OL3 RADIO |E
-#EXTVLCOPT:http-user-agent=OHA
-#EXTVLCOPT:http-referrer=https://oha.to
-#EXTHTTP:{"User-Agent":"OHA","Referer":"https://oha.to"}
-http://217.154.5.184:80/?url=https://oha.to/play/68102734/index.m3u8
 
