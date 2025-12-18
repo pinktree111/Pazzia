@@ -78,17 +78,17 @@ http://217.154.5.184:80/?url=https://kool.to/play/3897711086/index.m3u8
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/1759625738/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA SUSPENSE .s" group-title="Film & Serie TV" http-user-agent="KOOL" http-referrer="https://kool.to",SKY CINEMA SUSPENSE .s
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/3060043751/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA FAMILY .s" group-title="Film & Serie TV" http-user-agent="KOOL" http-referrer="https://kool.to",SKY CINEMA FAMILY .s
 #EXTVLCOPT:http-user-agent=KOOL
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/3216516117/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA SUSPENSE .s" group-title="Film & Serie TV" http-user-agent="KOOL" http-referrer="https://kool.to",SKY CINEMA SUSPENSE .s
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/3060043751/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA DUE .s" group-title="Film & Serie TV" http-user-agent="KOOL" http-referrer="https://kool.to",SKY CINEMA DUE .s
 #EXTVLCOPT:http-user-agent=KOOL
@@ -154,23 +154,17 @@ http://217.154.5.184:80/?url=https://kool.to/play/318057128/index.m3u8
 
 #EXTINF:-1, --- Intrattenimento ---
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY UNO .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",SKY UNO .s
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/322024849/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1 .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",SKY PRIMAFILA 1 .s
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/1492183364/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4 .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",SKY PRIMAFILA 4 .s
 #EXTVLCOPT:http-user-agent=KOOL
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/2416993844/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY UNO .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",SKY UNO .s
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/322024849/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9 .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",SKY PRIMAFILA 9 .s
 #EXTVLCOPT:http-user-agent=KOOL
@@ -208,11 +202,17 @@ http://217.154.5.184:80/?url=https://kool.to/play/2909818756/index.m3u8
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/2268489342/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6 .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",SKY PRIMAFILA 6 .s
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1 .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",SKY PRIMAFILA 1 .s
 #EXTVLCOPT:http-user-agent=KOOL
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/3939513684/index.m3u8
+http://217.154.5.184:80/?url=https://kool.to/play/1492183364/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3 .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",SKY PRIMAFILA 3 .s
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/573618724/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SUPER TENNIS .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",SKY SUPER TENNIS .s
 #EXTVLCOPT:http-user-agent=KOOL
@@ -220,11 +220,11 @@ http://217.154.5.184:80/?url=https://kool.to/play/3939513684/index.m3u8
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/558282118/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3 .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",SKY PRIMAFILA 3 .s
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6 .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",SKY PRIMAFILA 6 .s
 #EXTVLCOPT:http-user-agent=KOOL
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/573618724/index.m3u8
+http://217.154.5.184:80/?url=https://kool.to/play/3939513684/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY ATLANTIC .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",SKY ATLANTIC .s
 #EXTVLCOPT:http-user-agent=KOOL
@@ -272,17 +272,17 @@ http://217.154.5.184:80/?url=https://kool.to/play/2239645272/index.m3u8
 
 #EXTINF:-1, --- Intrattenimento ---
 
-#EXTINF:-1 tvg-id="" tvg-name="RAI 1 .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",RAI 1 .s
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/1225653759/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="RAI 4 .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",RAI 4 .s
 #EXTVLCOPT:http-user-agent=KOOL
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/2179822223/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RAI 1 .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",RAI 1 .s
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/1225653759/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RAI 3 .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",RAI 3 .s
 #EXTVLCOPT:http-user-agent=KOOL
@@ -548,78 +548,6 @@ http://217.154.5.184:80/?url=https://kool.to/play/3758728323/index.m3u8
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/11090349/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CANALE 21 CAMPANIA .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",CANALE 21 CAMPANIA .c
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/3906007886/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ANTENNA 2 .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ANTENNA 2 .c
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/3014001260/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ALTO ADIGE TV .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ALTO ADIGE TV .c
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/68845853/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ANIMAL PLANET .s
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/1908877526/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ANTENNA SICILIA .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ANTENNA SICILIA .c
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/3309975829/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="KISS KISS ITALIA .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",KISS KISS ITALIA .c
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/1370869299/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",FM ITALIA .s
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/651388134/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AURORA ARTE .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",AURORA ARTE .c
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/3267376899/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="27 TWENTY SEVEN .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",27 TWENTY SEVEN .s
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/608774683/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ANTENNA SUD .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ANTENNA SUD .c
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/4084059868/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ARTE NETWORK .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ARTE NETWORK .c
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/430570853/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ITALIAN FISHING TV .s
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/477083716/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="DMAX .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",DMAX .s
 #EXTVLCOPT:http-user-agent=KOOL
 #EXTVLCOPT:http-referrer=https://kool.to
@@ -697,6 +625,12 @@ http://217.154.5.184:80/?url=https://kool.to/play/3075118500/index.m3u8
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/1600139819/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CANALE 21 CAMPANIA .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",CANALE 21 CAMPANIA .c
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/3906007886/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REGGIO TV .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",REGGIO TV .c
 #EXTVLCOPT:http-user-agent=KOOL
@@ -776,6 +710,12 @@ http://217.154.5.184:80/?url=https://kool.to/play/161144675/index.m3u8
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/2188469219/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ANTENNA 2 .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ANTENNA 2 .c
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/3014001260/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="KISS KISS NAPOLI .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",KISS KISS NAPOLI .c
 #EXTVLCOPT:http-user-agent=KOOL
 #EXTVLCOPT:http-referrer=https://kool.to
@@ -787,6 +727,12 @@ http://217.154.5.184:80/?url=https://kool.to/play/3027903278/index.m3u8
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/2116902817/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ALTO ADIGE TV .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ALTO ADIGE TV .c
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/68845853/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VIDEOLINA .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",VIDEOLINA .c
 #EXTVLCOPT:http-user-agent=KOOL
@@ -872,11 +818,23 @@ http://217.154.5.184:80/?url=https://kool.to/play/4253692893/index.m3u8
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/4060499455/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ANIMAL PLANET .s
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/1908877526/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="IUNIOR TV .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",IUNIOR TV .c
 #EXTVLCOPT:http-user-agent=KOOL
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/803540254/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ANTENNA SICILIA .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ANTENNA SICILIA .c
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/3309975829/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPERIA TV .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ESPERIA TV .c
 #EXTVLCOPT:http-user-agent=KOOL
@@ -889,6 +847,12 @@ http://217.154.5.184:80/?url=https://kool.to/play/3525104604/index.m3u8
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/2826111812/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KISS KISS ITALIA .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",KISS KISS ITALIA .c
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/1370869299/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRENTINO TV .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",TRENTINO TV .c
 #EXTVLCOPT:http-user-agent=KOOL
@@ -932,6 +896,12 @@ http://217.154.5.184:80/?url=https://kool.to/play/2774026655/index.m3u8
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/2343767125/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",FM ITALIA .s
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/651388134/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="RAKUTEN FAMILY .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",RAKUTEN FAMILY .s
 #EXTVLCOPT:http-user-agent=KOOL
 #EXTVLCOPT:http-referrer=https://kool.to
@@ -961,6 +931,12 @@ http://217.154.5.184:80/?url=https://kool.to/play/3551882344/index.m3u8
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/4137427510/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AURORA ARTE .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",AURORA ARTE .c
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/3267376899/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VCO AZZURRA TV .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",VCO AZZURRA TV .c
 #EXTVLCOPT:http-user-agent=KOOL
@@ -1004,6 +980,12 @@ http://217.154.5.184:80/?url=https://kool.to/play/1798700028/index.m3u8
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/4131055018/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="27 TWENTY SEVEN .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",27 TWENTY SEVEN .s
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/608774683/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",FASHION TV .s
 #EXTVLCOPT:http-user-agent=KOOL
 #EXTVLCOPT:http-referrer=https://kool.to
@@ -1015,6 +997,18 @@ http://217.154.5.184:80/?url=https://kool.to/play/3028319308/index.m3u8
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/1225484664/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ANTENNA SUD .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ANTENNA SUD .c
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/4084059868/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARTE NETWORK .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ARTE NETWORK .c
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/430570853/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIMO CANALE .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",PRIMO CANALE .s
 #EXTVLCOPT:http-user-agent=KOOL
@@ -1028,23 +1022,29 @@ http://217.154.5.184:80/?url=https://kool.to/play/3497884599/index.m3u8
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/1621632780/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ELIVE TV BRESCIA .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ELIVE TV BRESCIA .c
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/1521821490/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SUPER TV ARISTANIS .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",SUPER TV ARISTANIS .c
 #EXTVLCOPT:http-user-agent=KOOL
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/11653719/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PESCA E CACCIA .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",PESCA E CACCIA .s
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/3124512993/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG TV .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",BLOOMBERG TV .s
 #EXTVLCOPT:http-user-agent=KOOL
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/116299718/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PESCA E CACCIA .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",PESCA E CACCIA .s
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/3124512993/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CATFISH .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",CATFISH .c
 #EXTVLCOPT:http-user-agent=KOOL
@@ -1058,12 +1058,6 @@ http://217.154.5.184:80/?url=https://kool.to/play/2381583828/index.m3u8
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/1565298794/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ELIVE TV BRESCIA .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ELIVE TV BRESCIA .c
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/1521821490/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="RETE VENETA .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",RETE VENETA .c
 #EXTVLCOPT:http-user-agent=KOOL
 #EXTVLCOPT:http-referrer=https://kool.to
@@ -1075,6 +1069,12 @@ http://217.154.5.184:80/?url=https://kool.to/play/1085172353/index.m3u8
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/1083984669/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CRIME + INV .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",CRIME + INV .s
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/1968339149/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TOP FREE .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",RAKUTEN TOP FREE .s
 #EXTVLCOPT:http-user-agent=KOOL
@@ -1088,11 +1088,11 @@ http://217.154.5.184:80/?url=https://kool.to/play/1572866962/index.m3u8
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/4136045815/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CRIME + INV .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",CRIME + INV .s
+#EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV .s" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",ITALIAN FISHING TV .s
 #EXTVLCOPT:http-user-agent=KOOL
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/1968339149/index.m3u8
+http://217.154.5.184:80/?url=https://kool.to/play/477083716/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELEMIA .c" group-title="Intrattenimento" http-user-agent="KOOL" http-referrer="https://kool.to",TELEMIA .c
 #EXTVLCOPT:http-user-agent=KOOL
@@ -1544,17 +1544,17 @@ http://217.154.5.184:80/?url=https://kool.to/play/3446813098/index.m3u8
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/3569731325/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL .s" group-title="Musica" http-user-agent="KOOL" http-referrer="https://kool.to",RADIO CAPITAL .s
-#EXTVLCOPT:http-user-agent=KOOL
-#EXTVLCOPT:http-referrer=https://kool.to
-#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
-http://217.154.5.184:80/?url=https://kool.to/play/421441745/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="MTV .c" group-title="Musica" http-user-agent="KOOL" http-referrer="https://kool.to",MTV .c
 #EXTVLCOPT:http-user-agent=KOOL
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
 http://217.154.5.184:80/?url=https://kool.to/play/3212860676/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL .s" group-title="Musica" http-user-agent="KOOL" http-referrer="https://kool.to",RADIO CAPITAL .s
+#EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-referrer=https://kool.to
+#EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}
+http://217.154.5.184:80/?url=https://kool.to/play/421441745/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="OL3 RADIO .c" group-title="Musica" http-user-agent="KOOL" http-referrer="https://kool.to",OL3 RADIO .c
 #EXTVLCOPT:http-user-agent=KOOL
